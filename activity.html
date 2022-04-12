@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Activity</title>
+</head>
+<body>
+    Hello user 
+   
+        <label for="sleep">When did you sleep?</label>
+        <input type="time" id="sleep" name="sleep-time"><br>
+        <label for="wakeup">When did you wake up?</label>
+        <input type="time" id="wakeup" name="wakeup-time"><br>
+        <button onclick="register(event)">Submit!</button>
+
+        <!--output details-->
+        <p>Slept at: <span id="displaySleep"></span></p>
+        <p>Woke up at: <span id="displayWakeUp"></span></p>
+        <!-- <p>Time slept: <span id="totaltime"></span></p> -->
+        
+        <script src="app.js"></script>
+</body>
+</html>
