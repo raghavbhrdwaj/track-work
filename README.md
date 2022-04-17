@@ -18,7 +18,8 @@ Track your calories, work style, sleep, as well as Posture at one place.
 
 ##screenshots of the mockup of application made using figma.
 
-![image](https://user-images.githubusercontent.com/57572350/163730904-a8fe406a-418c-4cd7-b66a-1df72f27817a.png)![image](https://user-images.githubusercontent.com/57572350/163731081-e0b034c6-b86b-47ea-beb7-9740843fb6ff.png)![image](https://user-images.githubusercontent.com/57572350/163730993-afdab76f-ea6f-485f-b40b-19ffb783bc6a.png)![image](https://user-images.githubusercontent.com/57572350/163731002-15c4b7ce-699f-4b35-953b-a7eb7124f7b5.png)![image](https://user-images.githubusercontent.com/57572350/163731030-c6af4a0e-9c6e-4ca4-a856-2f43f7869614.png)![image](https://user-images.githubusercontent.com/57572350/163731063-5fc938c6-5dca-468d-9d3f-38c1165aa17d.png)
+![image](https://user-images.githubusercontent.com/57572350/163730904-a8fe406a-418c-4cd7-b66a-1df72f27817a.png)![image](https://user-images.githubusercontent.com/57572350/163731081-e0b034c6-b86b-47ea-beb7-9740843fb6ff.png)![image](https://user-images.githubusercontent.com/57572350/163730993-afdab76f-ea6f-485f-b40b-19ffb783bc6a.png)![image](https://user-images.githubusercontent.com/57572350/163731218-b991c6e8-88fe-42a6-b53b-28a39ae1f6c4.png)
+![image](https://user-images.githubusercontent.com/57572350/163731030-c6af4a0e-9c6e-4ca4-a856-2f43f7869614.png)![image](https://user-images.githubusercontent.com/57572350/163731063-5fc938c6-5dca-468d-9d3f-38c1165aa17d.png)
 
 
 
