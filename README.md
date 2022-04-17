@@ -17,3 +17,6 @@ Track your calories, work style, sleep, as well as Posture at one place.
 * There are graphs and charts which display the overall profile of the User according to the recommender.
 
 ##screenshots
+
+
+![unknown](https://user-images.githubusercontent.com/57572350/163730845-15ee041f-8c6e-4096-8e2a-4593ffca354e.png)
