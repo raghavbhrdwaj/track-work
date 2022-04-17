@@ -18,7 +18,8 @@ Track your calories, work style, sleep, as well as Posture at one place.
 
 ##screenshots
 
-![image](https://user-images.githubusercontent.com/57572350/163730904-a8fe406a-418c-4cd7-b66a-1df72f27817a.png)           ![image](https://user-images.githubusercontent.com/57572350/163730949-6d11a3d9-47ea-4c0e-90b8-c77069bbebd5.png)
+![image](https://user-images.githubusercontent.com/57572350/163730904-a8fe406a-418c-4cd7-b66a-1df72f27817a.png) ![image](https://user-images.githubusercontent.com/57572350/163730949-6d11a3d9-47ea-4c0e-90b8-c77069bbebd5.png) ![image](https://user-images.githubusercontent.com/57572350/163730971-98dc417b-d38f-49b1-8d01-65a7d768e153.png)
+
 
 
 
