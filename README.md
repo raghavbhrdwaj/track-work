@@ -16,7 +16,7 @@ Track your calories, work style, sleep, as well as Posture at one place.
 * User is notified every time they open the app and every week to enter their daily activities
 * There are graphs and charts which display the overall profile of the User according to the recommender.
 
-##screenshots
+##screenshots of a application made using figma.
 
 ![image](https://user-images.githubusercontent.com/57572350/163730904-a8fe406a-418c-4cd7-b66a-1df72f27817a.png) ![image](https://user-images.githubusercontent.com/57572350/163731081-e0b034c6-b86b-47ea-beb7-9740843fb6ff.png)
  ![image](https://user-images.githubusercontent.com/57572350/163730993-afdab76f-ea6f-485f-b40b-19ffb783bc6a.png) ![image](https://user-images.githubusercontent.com/57572350/163731002-15c4b7ce-699f-4b35-953b-a7eb7124f7b5.png) ![image](https://user-images.githubusercontent.com/57572350/163731030-c6af4a0e-9c6e-4ca4-a856-2f43f7869614.png)![image](https://user-images.githubusercontent.com/57572350/163731063-5fc938c6-5dca-468d-9d3f-38c1165aa17d.png)
